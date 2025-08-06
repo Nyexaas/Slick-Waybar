@@ -15,6 +15,12 @@ A simple design for waybar
 
 >[!NOTE]
 >Do not forget to change your timezone in the .jsonc
+>
+>If you use multiple screen but want waybar on only one of them change :
+>
+>``` // "output": "DP-2", ```
+>Into :
+>``` "output": "Your screen", ```
 
 ## Wallpaper
 **Wallpaper source:** https://www.reddit.com/r/battlestations/comments/1f9sjpw/how_do_we_like_this_set_up/
