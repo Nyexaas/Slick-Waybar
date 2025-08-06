@@ -1,8 +1,0 @@
-list of the known issues :
-
-Clock :
-Is to high.
-For some reasons the date doesn't appear as a simple D/M/Y.
-
-Pulseaudio :
-Pavucontrol bug and lower the volume by itself
