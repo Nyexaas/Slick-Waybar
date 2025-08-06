@@ -11,3 +11,8 @@ A simple design for waybar
 Wallpaper source ( didn't found better source ): https://www.reddit.com/r/battlestations/comments/1f9sjpw/how_do_we_like_this_set_up/
 
 Direct link : ( By u/YesButConsiderThis ) https://i.imgur.com/03tKTvr.jpeg
+
+Fonts used : " JetBrainsMono Nerd Font " and " JetBrains Mono NL Medium "
+icons :  otf-font-awesome
+
+Do not forget to change your timezone in the .jsonc
