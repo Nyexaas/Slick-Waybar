@@ -7,11 +7,6 @@ A simple design for waybar
 ![Waybar(1)](https://github.com/user-attachments/assets/98362cae-e3ff-4c71-ab0d-08964a47acd9)
 
 
-
-Wallpaper source ( didn't found better source ): https://www.reddit.com/r/battlestations/comments/1f9sjpw/how_do_we_like_this_set_up/
-
-Direct link : ( By u/YesButConsiderThis ) https://i.imgur.com/03tKTvr.jpeg
-
 ## " Requirements "
 
 **Fonts used** : " JetBrainsMono Nerd Font " and " JetBrains Mono NL Medium "
