@@ -1,7 +1,7 @@
 * {
     /* fonts recommended : " JetBrainsMono Nerd Font " or " JetBrains Mono NL Medium " */
     /* `otf-font-awesome` is required to be installed for icons */
-    font-family: JetBrainsMono Nerd Font, JetBrains Mono NL;
+    font-family: JetBrainsMono Nerd Font, JetBrains Mono NL Medium;
     font-size: 15px;
 }
 
@@ -101,6 +101,7 @@ button:hover {
     border-radius: 17px;
     padding: 8px 10px 8px 10px;
     margin: 8px 8px 0px 0px;
+
 }
 
 @keyframes blink {
