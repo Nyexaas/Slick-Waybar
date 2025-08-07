@@ -3,8 +3,6 @@
 ## General : Find a way to lose less horizontal space.
 
 ## Clock :
-Lower top.
-Change calendar format.
 Change the calendar fonts and colors ( the " pop up " one )
 
 ## Pulseaudio :
