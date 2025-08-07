@@ -99,6 +99,8 @@ button:hover {
     font-family: JetBrains Mono NL Medium;
     font-size: 15px;
     border-radius: 17px;
+    padding: 8px 10px 8px 10px;
+    margin: 8px 8px 0px 0px;
 }
 
 @keyframes blink {
@@ -112,8 +114,8 @@ button:hover {
     background-color: #878586;
     color: #000000;
     border-radius: 15px;
-    padding: 8px 15px 8px 8px;
-    margin: 4px ;
+    padding: 8px 10px 8px 10px;
+    margin: 8px 8px 0px 0px;
 }
 
 #pulseaudio.muted {
