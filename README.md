@@ -2,9 +2,11 @@
 A simple design for waybar
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8bbe3d0-e76d-46b9-8335-7b0d1c3d38c9" />
+<img width="1920" height="1080" alt="FullScreen" src="https://github.com/user-attachments/assets/50e34ddc-a21a-4ab9-b826-f2c03f5ab682" />
 
-![Waybar(1)](https://github.com/user-attachments/assets/98362cae-e3ff-4c71-ab0d-08964a47acd9)
+
+<img width="244" height="62" alt="Waybar" src="https://github.com/user-attachments/assets/e7dfbd2f-9faa-4b75-9d25-ee3542103b2d" />
+
 
 
 ## " Requirements "
