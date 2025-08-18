@@ -1,6 +1,6 @@
 // -*- mode: jsonc -*-
 {
-     "output": "DP-2",
+    // "output": "DP-2",
     // "layer": "top", // Waybar at top layer
     // "position": "bottom", // Waybar position (top|bottom|left|right)
     "height": 45, // Waybar height (to be removed for auto height)
@@ -21,7 +21,12 @@
         "calendar": {
                     "mode": "month",
                     "format": {
-                     "today": "<span color='#ff0000'><b><u>{}</u></b></span>"
+                     "today":  "<span color='#ff0000'><b><u>{}</u></b></span>",
+                     "days":   "<span color='#ffffff'><b>{}</b></span>",
+                     "months": "<span color='#ffffff'><b>{}</b></span>",
+
+
+   // This will have to do until i find how to change the background color
             }
         }
     },
@@ -36,6 +41,5 @@
             "default": ["", "", ""]
         },
         "on-click": "pavucontrol"
-    },
     }
 }
