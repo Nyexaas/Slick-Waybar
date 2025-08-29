@@ -83,13 +83,16 @@ button:hover {
 #pulseaudio.muted {
     background-color: #878586;
     color: #2a5c45;
+    padding: 8px 7px 8px 8px;
 }
 
 #wireplumber {
     background-color: #878586;
     color: #000000;
+    padding: 8px 15px 8px 8px;
 }
 
 #wireplumber.muted {
     background-color: #878586;
+    padding: 8px 7px 8px 8px
 }
