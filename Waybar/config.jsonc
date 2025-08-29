@@ -16,7 +16,7 @@
     ],
     "clock": {
         "timezone": "Europe/Paris",
-        "tooltip-format": "<tt><small>{calendar}</small></tt>",
+        "tooltip-format": "<tt><big>{calendar}</big></tt>",
         "format-alt": "{:%d-%m-%y}",
         "calendar": {
                     "mode": "month",
