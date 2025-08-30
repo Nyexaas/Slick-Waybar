@@ -7,9 +7,5 @@ At boot : Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus
 ## Clock :
 
 ## Pulseaudio :
-When the volume is muted, the module change size.
-
-Icon not aligned anymore for some reason.
-
 Pavucontrol bug and lower the volume by itself.
 
