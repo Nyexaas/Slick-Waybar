@@ -43,6 +43,7 @@ button:hover {
 
 #clock,
 #wireplumber,
+#pulseaudio,
 
 #clock {
     background-color: #878586;
@@ -70,6 +71,17 @@ button:hover {
 }
 
 #wireplumber.muted {
+    background-color: #878586;
+    padding: 8px 7px 8px 8px
+}
+#pulseaudio {
+    background-color: #878586;
+    color: #000000;
+    padding: 8px 15px 8px 8px;
+    margin: 8px 0px 0px 10px;
+}
+
+#pulseaudio.muted {
     background-color: #878586;
     padding: 8px 7px 8px 8px
 }
