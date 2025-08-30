@@ -3,8 +3,7 @@
 ## General : Find a way to lose less horizontal space.
 
 ## Clock :
-Change the calendar fonts and colors ( the " pop up " one )
-
+Find better colors for the calendar.
 ## Pulseaudio :
 Change Pavucontrol for an alternative who doesn't change the volume on it's own.
 Disable the message about which output is used.
