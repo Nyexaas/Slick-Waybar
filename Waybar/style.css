@@ -37,12 +37,11 @@ button:hover {
 }
 
 /* you can set a style on hover for any module like this */
-#pulseaudio:hover {
+#wireplumber:hover {
     background-color: #878586;
 }
 
 #clock,
-#pulseaudio,
 #wireplumber,
 
 #clock {
@@ -63,24 +62,11 @@ button:hover {
     }
 }
 
-#pulseaudio {
-    background-color: #878586;
-    color: #000000;
-    border-radius: 15px;
-    padding: 8px 15px 8px 8px;
-    margin: 8px 0px 0px 10px;
-}
-
-#pulseaudio.muted {
-    background-color: #878586;
-    color: #2a5c45;
-    padding: 8px 7px 8px 8px;
-}
-
 #wireplumber {
     background-color: #878586;
     color: #000000;
     padding: 8px 15px 8px 8px;
+    margin: 8px 0px 0px 10px;
 }
 
 #wireplumber.muted {
