@@ -8,7 +8,7 @@
     "spacing": 4, // Gaps between modules (4px)
     // Choose the order of the modules
     "modules-left": [
-        "pulseaudio"
+        "wireplumber"
     ],
     "modules-center": [],
     "modules-right": [
@@ -30,7 +30,7 @@
             }
         }
     },
-    "pulseaudio": {
+    "wireplumber": {
         // "scroll-step": 1, // %, can be a float
         "format": "{icon}",
         "format-muted": "",
