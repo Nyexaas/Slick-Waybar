@@ -11,3 +11,5 @@ Disable the message about which output is used.
 ### In head for Pulseaudio :
 When clicking it will show 2 horizontal slider on top of each other with each one an icon for Mic / Output, the name of the used device will be sliding if it can't fully appear.
 
+Maybe pipewire has better alternative.
+
