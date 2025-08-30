@@ -35,9 +35,6 @@
         "format": "{icon}",
         "format-muted": "",
         "format-icons": {
-            "headphone": "",
-            "hands-free": "",
-            "headset": "",
             "default": ["", "", ""]
         },
         "on-click": "pavucontrol"
