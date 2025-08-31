@@ -40,7 +40,7 @@ Check if you have waybar installed, if not : install it.
 >
 >Pacman command : ``` pacman -S waybar ```
 >
->(Pacman may require to sudo or change to -Sy)
+>(Pacman may require to sudo or/and change to -Sy)
 
 Download and extract the Waybar file containing the config.json and style.css .
 
