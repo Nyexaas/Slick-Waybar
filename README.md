@@ -1,5 +1,6 @@
 # Slick-Waybar
 A simple design for waybar
+
 ( This branch is made for 27 inch screens )
 
 
