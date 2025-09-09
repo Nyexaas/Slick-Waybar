@@ -1,5 +1,6 @@
 # Slick-Waybar
 A simple design for waybar
+( This branch is made for 27 inch screens )
 
 
 <img width="1920" height="1080" alt="FullScreen" src="https://github.com/user-attachments/assets/50e34ddc-a21a-4ab9-b826-f2c03f5ab682" />
@@ -11,7 +12,9 @@ A simple design for waybar
 
 ## " Requirements "
 
-Waybar
+**Pipewire-pulse / pulse audio and wireplumber**
+
+**Waybar**
 
 **Fonts used** : " JetBrainsMono Nerd Font " and " JetBrains Mono NL Medium "
 
@@ -28,6 +31,7 @@ Waybar
 >``` "output": "Your screen", ```
 
 ## Wallpaper
+
 **Wallpaper source:** https://www.reddit.com/r/battlestations/comments/1f9sjpw/how_do_we_like_this_set_up/
 
 **Direct link:** ( By u/YesButConsiderThis ) https://i.imgur.com/03tKTvr.jpeg
