@@ -85,3 +85,13 @@ button:hover {
     background-color: #878586;
     padding: 8px 7px 8px 8px
 }
+
+#battery {
+    background-color: #878586;
+    color: #000000;
+}
+
+#battery.charging, #battery.plugged {
+    color: #ffffff;
+    background-color: #878586;
+}
