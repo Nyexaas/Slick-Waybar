@@ -1,13 +1,17 @@
 # Slick-Waybar
 A simple design for waybar
 
-( This branch is made for 14 inch screen )
+> [!WARNING]
+> 
+> This branch is made for 14 inch screen laptop.
+> 
+> Other size of screen may have problems with sizes.
+
+<img width="1366" height="768" alt="Full-screen" src="https://github.com/user-attachments/assets/28a5cc21-dd91-45b9-91a3-c6fe7a0715a9" />
 
 
-<img width="1920" height="1080" alt="FullScreen" src="https://github.com/user-attachments/assets/50e34ddc-a21a-4ab9-b826-f2c03f5ab682" />
+<img width="209" height="55" alt="Icons" src="https://github.com/user-attachments/assets/c9cba585-eefc-429f-bb50-3bd204cdbefd" />
 
-
-<img width="244" height="62" alt="Waybar" src="https://github.com/user-attachments/assets/e7dfbd2f-9faa-4b75-9d25-ee3542103b2d" />
 
 
 
@@ -26,10 +30,12 @@ A simple design for waybar
 >
 >If you use multiple screen but want waybar on only one of them change :
 >
->``` // "output": "DP-2", ```
+>``` // "output": "", ```
 >
 >Into :
 >``` "output": "Your screen", ```
+>
+>waybar has an issue of the battery icon doen't update on it's own, only clicking on it or restart waybar make it update.
 
 ## Wallpaper
 **Wallpaper source:** https://www.reddit.com/r/battlestations/comments/1f9sjpw/how_do_we_like_this_set_up/
