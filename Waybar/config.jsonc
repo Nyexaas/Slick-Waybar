@@ -1,6 +1,6 @@
 // -*- mode: jsonc -*-
 {
-    // "output": "DP-2",
+    // "output": "",
     // "layer": "top", // Waybar at top layer
     // "position": "bottom", // Waybar position (top|bottom|left|right)
     "height": 45, // Waybar height (to be removed for auto height)
@@ -9,7 +9,8 @@
     // Choose the order of the modules
     "modules-left": [
         "pulseaudio",
-        "battery"
+	    "battery",
+        "network"
     ],
     "modules-center": [],
     "modules-right": [
@@ -22,12 +23,12 @@
         "calendar": {
                     "mode": "month",
                     "format": {
-                     "today":  "<span color='#ff0000'><b><u>{}</u></b><>
+                     "today":  "<span color='#ff0000'><b><u>{}</u></b></span>",
                      "days":   "<span color='#ffffff'><b>{}</b></span>",
                      "months": "<span color='#ffffff'><b>{}</b></span>",
 
 
-   // This will have to do until i find how to change the background co>
+   // This will have to do until i find how to change the background color
             }
         }
     },
@@ -42,18 +43,26 @@
     },
 
     "battery": {
-            "states": {
+	    "states": {
             // "good": 95,
             "warning": 30,
             "critical": 15
         },
-        "format": "{capacity}% {icon}",
-        "format-full": "{capacity}% {icon}",
-        "format-charging": "{capacity}% ",
-        "format-plugged": "{capacity}% ",
+        "format": "{icon}",
+        "format-full": "{icon}",
+        "format-charging": "",
+        "format-plugged": "",
         "format-alt": "{time} {icon}",
         // "format-good": "", // An empty format will hide the module
         // "format-full": "",
         "format-icons": ["", "", "", "", ""]
-    },
+},
+
+    "network": {
+        "format-wifi": "",
+        "format-ethernet": "",
+        "tooltip-format": "",
+        "format-linked": "",
+        "format-disconnected": "⚠"
+},
 }
