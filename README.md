@@ -1,7 +1,13 @@
 # Slick-Waybar
 A simple design for waybar
 
-( This branch is made for 27 inch screens )
+> [!WARNING]
+> 
+> This branch is made for 27 inch screen.
+> 
+> Other size of screen may have problems with sizes.
+>
+> For laptops: check the Laptor repo.
 
 
 <img width="1920" height="1080" alt="FullScreen" src="https://github.com/user-attachments/assets/50e34ddc-a21a-4ab9-b826-f2c03f5ab682" />
