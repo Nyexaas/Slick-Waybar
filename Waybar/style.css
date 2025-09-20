@@ -42,8 +42,10 @@ button:hover {
 }
 
 #clock,
+#battery,
 #wireplumber,
 #pulseaudio,
+#network,
 
 #clock {
     background-color: #878586;
@@ -83,15 +85,33 @@ button:hover {
 
 #pulseaudio.muted {
     background-color: #878586;
-    padding: 8px 7px 8px 8px
+    padding: 8px 7px 8px 8px;
 }
 
 #battery {
     background-color: #878586;
     color: #000000;
+    padding: 8px 15px 8px 8px;
+    margin: 8px 0px 0px 4px;
 }
 
 #battery.charging, #battery.plugged {
     color: #000000;
     background-color: #878586;
+    padding: 8px 15px 8px 8px;
+    margin: 8px 0px 0px 4px;
+}
+
+#network {
+    color: #000000;
+    background-color: #878586;
+    padding: 8px 15px 8px 8px;
+    margin: 8px 0px 0px 4px;
+}
+
+#network.disconnected {
+    color: #000000;
+    background-color: #878586;
+    padding: 8px 15px 8px 8px;
+    margin: 8px 0px 0px 4px;
 }
