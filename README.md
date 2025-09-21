@@ -20,6 +20,7 @@ A simple design for waybar
 ## " Requirements "
 
 **Pipewire-pulse / pulse audio and wireplumber**
+**pwvucontrol or pavucontrol**
 
 **Waybar**
 
@@ -32,10 +33,13 @@ A simple design for waybar
 >
 >If you use multiple screen but want waybar on only one of them change :
 >
->``` // "output": "DP-2", ```
+>``` // "output": "", ```
 >
 >Into :
 >``` "output": "Your screen", ```
+>
+>Pavucontrol has a bug with Firefox, making it lower the volume at each Youtube video, might be linked to Pipewire.
+>If pwvucontrol is chosen you will need to modify the files to replace pavucontrol.
 
 ## Wallpaper
 
