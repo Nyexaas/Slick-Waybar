@@ -11,4 +11,4 @@ Change Pavucontrol for an alternative who doesn't change the volume on it's own.
 Disable the message about which output is used.
 
 > [!NOTE]
-> Pwcontrol seems to not have the bug of random audio changes, but still countains a bunch of bug.
+> Pwvucontrol seems to not have the bug of random audio changes, but still countains a bunch of error messages.
