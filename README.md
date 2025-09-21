@@ -39,6 +39,7 @@ A simple design for waybar
 >``` "output": "Your screen", ```
 >
 >Pavucontrol has a bug with Firefox, making it lower the volume at each Youtube video, might be linked to Pipewire.
+>
 >If pwvucontrol is chosen you will need to modify the files to replace pavucontrol.
 
 ## Wallpaper
