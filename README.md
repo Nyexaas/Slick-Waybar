@@ -12,6 +12,9 @@ A simple design for waybar
 
 <img width="209" height="55" alt="Icons" src="https://github.com/user-attachments/assets/c9cba585-eefc-429f-bb50-3bd204cdbefd" />
 
+> [!Note]
+> The screenshots has been taken on a small resolution screen (1366x768)
+
 
 
 
