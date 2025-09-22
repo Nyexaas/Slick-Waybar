@@ -40,7 +40,7 @@ A simple design for waybar
 >
 >Pavucontrol has a bug with Firefox, making it lower the volume at each Youtube video, might be linked to Pipewire.
 >
->Both options are available in the Releases.
+>PW / PAvucontrol versions are Both available in the Releases.
 
 ## Wallpaper
 
