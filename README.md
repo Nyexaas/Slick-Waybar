@@ -24,7 +24,9 @@ A simple design for waybar
 
 **Waybar**
 
-**Fonts used** : " JetBrainsMono Nerd Font " and " JetBrains Mono NL Medium "
+**Fonts used** : " Free Mono "
+
+**Older fonts used on the first version** : " JetBrainsMono Nerd Font " and " JetBrains Mono NL Medium "
 
 **icons** :  otf-font-awesome
 
@@ -38,9 +40,7 @@ A simple design for waybar
 >Into :
 >``` "output": "Your screen", ```
 >
->Pavucontrol has a bug with Firefox, making it lower the volume at each Youtube video, might be linked to Pipewire.
->
->PW / PAvucontrol versions are Both available in the Releases.
+>Pavucontrol and pwcontrol have a bug with Firefox, making it lower the volume at each Youtube video, might be linked to Pipewire.
 
 ## Wallpaper
 
@@ -60,8 +60,13 @@ Check if you have waybar installed, if not : install it.
 
 Download and extract the Waybar file containing the config.json and style.css .
 
-Move the config and style files of this git to the waybar file. 
+Move the config and style files of this git to the waybar file.
+( Known location : /etc/xdg/waybar/ )
 
 > You might need to use the command ``` sudo mv ```
 
 Launch waybar and enjoy.
+
+
+>[!NOTE]
+>Due to the headache that is to make all of this a vertical waster as well as a time hole to find nice fonts, i decided that it will be the last of my update, if anyone is tempted to fork it to fix it and make it better, good luck.
